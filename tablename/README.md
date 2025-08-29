@@ -1,9 +1,9 @@
-Generate the column name code to use without hard code column name
+Generate the table name code to use without hard code table name
 
 ## How to generate code
 ```
 import "github.com/skyrocketOoO/gormx/tablename"
-columnname.GenTableNamesCode(db, path)
+tablename.GenTableNamesCode(db, path)
 ```
 
 ## How to use
